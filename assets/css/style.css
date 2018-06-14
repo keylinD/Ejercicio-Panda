@@ -1,0 +1,27 @@
+body{
+  background-color: salmon;
+  color: white;
+}
+.logo{
+  background-image: url(../img/uno.jpg);
+  padding: 20em;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: grayscale(100%);
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.tex{
+  background-color: brown;
+}
+.imag{
+  background-image: url(../img/dos.jpg);
+  padding: 20em;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: grayscale(100%);
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
